@@ -1,7 +1,7 @@
 # Deliveries platform iOS
 ===========================
 
-##Arcitecture
+### Arcitecture
 
 Code follows Clean Swift Architecture.
 Clean Swift is Uncle Bob's Clean Architecture applied to iOS.
@@ -14,7 +14,7 @@ Clean Swift is Uncle Bob's Clean Architecture applied to iOS.
     ├─ Views (UITableViewCell,UICollectionViewCell,...)
     ├─ Globals (Enums,Extentions,...)
     
-##Dependencies
+### Dependencies
 
 Thrid party framewoks and Library are managed using Cocoapods.
 
